@@ -1,5 +1,4 @@
 
-<H1>I am learning full stack engineering and loving it. </H1>
 <ul>
 <li> 👋 Hi, I’m @clawrence2
 <li>  👀 I’m interested in front and back end development
